@@ -1,0 +1,15 @@
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3.4rem;
+}
+
+button {
+    background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+    border-radius: 1rem;
+    padding: 2.1rem 1.6rem;
+    color: white;
+    font-size: 700;
+    font-size: 1.6rem;
+}

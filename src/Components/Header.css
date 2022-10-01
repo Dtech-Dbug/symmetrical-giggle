@@ -1,0 +1,30 @@
+header {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    color: var(--primary-color);
+    padding-top: 3rem;
+    padding-inline: 4rem;
+
+}
+
+header #highlight {
+    background-color: #f3ec78;
+    background-image: var(--accent-color);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+
+}
+
+section {
+    font-size: 1.6rem;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 1.5rem;
+    padding-inline: 4rem;
+}

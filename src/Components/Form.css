@@ -1,0 +1,23 @@
+form {
+    background: var(--accent-color);
+    padding: 1rem 1.2rem;
+    height: 50vh;
+    margin-inline: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    padding: 1rem 1rem;
+}
+
+label {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
